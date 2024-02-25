@@ -1,0 +1,122 @@
+
+
+.hero {
+  width: 100%;
+  height: 300px;  
+ 
+
+
+}
+
+.container {
+    display: flex;
+    margin-right: 5rem;
+    padding: 0%;
+}
+
+
+.ph {
+    font-size: 62px;
+    margin-left: 5rem;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;  
+    gap: 17px;
+
+}
+ .Order {
+    width: 150px;
+    height: 50px;
+    background-color: #FF2626;
+    border-radius: 2rem;
+    color: aliceblue;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+ }
+
+.Feast {
+    width: 300px;
+    background-color:#FFE6E6;
+    height: 54px ; 
+    font-family: "Poppins", sans-serif;
+    font-size: 19px;
+    font-weight: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 92px;
+    color: #FF2626;
+
+}
+.police {
+    width: 580px;
+}
+
+
+ @import url('https://fonts.googleapis.com/css2?family=Anta&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Protest+Revolution&display=swap');
+
+
+ body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+ }
+
+
+
+.header {
+    width: 100%;
+    margin: 0;
+
+}
+ 
+.nav {
+    margin-top: 38px;
+    margin-left: 113px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+.image {
+    width: 150px;
+    height: 46px;
+}
+
+.link {
+    width: 280px;
+    height: 30px;
+    display: flex;
+    gap: 30px;
+    margin: 14px;
+}
+
+
+.links {
+    color: black;
+    text-decoration: none;
+    font-size: 13px;
+
+}
+
+
+.assets {
+    width: 93px;
+    height: 38px;
+    gap: 15px;
+    display: flex;
+    margin-right: 250px;  
+
+}
+
+.img {
+    width: 40px;
+    height: 40px;
+    
+}
